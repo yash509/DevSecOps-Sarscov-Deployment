@@ -16,4 +16,4 @@ spec:
         - name: sarscovwp
           image: yash5090/sarscovwp:latest # Replace with the actual image tag
           ports:
-            - containerPort: 3000 # Replace with the port your Tetris game listens on
+            - containerPort: 5000 # Replace with the port your Tetris game listens on
